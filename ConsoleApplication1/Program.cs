@@ -20,6 +20,9 @@ namespace if_satser
             
                 Console.WriteLine("Lagliga Däck!");
 
+            //Övning2
+
+
         }
     }
 }
